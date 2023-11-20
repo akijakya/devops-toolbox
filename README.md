@@ -1,2 +1,3 @@
 # devops-toolbox
-A playground for the tools I tried out.
+
+A collection of tools I experimented with.
